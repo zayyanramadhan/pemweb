@@ -9,7 +9,7 @@ header('location:login.php');
 <html>
 <head>
 <meta charset="utf-8">
-<title>Klinik kecantikan</title>
+<title>RS kecantikan</title>
 <link rel="stylesheet" href="Menu.css">
 </head>
 <body>
