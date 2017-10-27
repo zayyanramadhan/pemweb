@@ -3,6 +3,7 @@ include "koneksi.php";
 ?>
 <?php
 session_start();
+echo 'rip RIZ';
 if ($_POST["login"]) 
 {
 $id_user=$_POST['id_user'];
